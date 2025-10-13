@@ -28,6 +28,10 @@ M3 Pro | 15   |      | |    | Yes | | `@Melumi`[^2] | 2025
 M3 ? | 14.3.1 | 5.0-21116  | | Yes[^4] | | | `sejmann74` | 2024 
 M4 Mini | 26.0.1 | 2509-178 | RVL-036 2025 | | | Yes, TP-Link UB400 | `@Amy`[^7]
 
+## Tips
+
+- According to `@Amy`[^7], if you give Dolphin microphone access by running `/Applications/Dolphin.app/Contents/MacOS/Dolphin` and accepting the dialog, Wii Speak will work. Also according to them, you cannot simply do this by granting permissions via the Privacy settings manually.
+
 ## Sources
 
 [^1]: https://github.com/dortania/OpenCore-Legacy-Patcher/issues/364
