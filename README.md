@@ -15,6 +15,12 @@
 
 - Disable the Wii remote speakers. According to `@Melumi`[^2], they "make crackling sounds which is distracting". Furthermore, according to `@Hibyehello`[^3], getting them to work at all requires "bluetooth passthrough", unavailable on later versions of macOS.
 
+## Support
+
+Model | OS | Dolphin | WiimotePair |  Dolphinbar | User
+--- | --- | --- | --- | --- | ---
+M3 Air | 14.7 | 2509 | No | | Me
+
 ## Sources
 
 [^1]: https://github.com/dortania/OpenCore-Legacy-Patcher/issues/364
