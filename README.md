@@ -17,10 +17,11 @@
 
 ## Support
 
-Model | OS | Dolphin | WiimotePair |  Dolphinbar | User
---- | --- | --- | --- | --- | ---
-M3 Air | 14.7 | 2509 | No |  | Me
-M3 Pro | 15   |      |    | Yes | `@Melumi`[^2]
+Model | OS | Dolphin | Year | WiimotePair |  Dolphinbar | User
+--- | --- | --- | --- | --- | --- | ---
+M3 Air | 14.7 | 2509 | 2025 | No |  | Me
+M3 Pro | 15   |      | 2025 |    | Yes | `@Melumi`[^2]
+M3 ? | 14.3.1 | 5.0-21116  | 2024 | Yes[^4] | | `sejmann74`
 
 ## Sources
 
