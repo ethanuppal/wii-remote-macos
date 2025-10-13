@@ -19,7 +19,8 @@
 
 Model | OS | Dolphin | WiimotePair |  Dolphinbar | User
 --- | --- | --- | --- | --- | ---
-M3 Air | 14.7 | 2509 | No | | Me
+M3 Air | 14.7 | 2509 | No |  | Me
+M3 Pro | 15   |      |    | Yes | `@Melumi`[^2]
 
 ## Sources
 
