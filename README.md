@@ -17,11 +17,12 @@
 
 ## Support
 
-Model | OS | Dolphin | Year | WiimotePair |  Dolphinbar | User
---- | --- | --- | --- | --- | --- | ---
-M3 Air | 14.7 | 2509 | 2025 | No |  | Me
-M3 Pro | 15   |      | 2025 |    | Yes | `@Melumi`[^2]
-M3 ? | 14.3.1 | 5.0-21116  | 2024 | Yes[^4] | | `sejmann74`
+Model | OS | Dolphin | Year | WiimotePair |  Dolphinbar | Other adapter | User
+--- | --- | --- | --- | --- | --- | --- | ---
+M3 Air | 14.7 | 2509 | 2025 | No |  | | Me
+M3 Pro | 15   |      | 2025 |    | Yes | | `@Melumi`[^2]
+M3 ? | 14.3.1 | 5.0-21116  | 2024 | Yes[^4] | | | `sejmann74`
+M4 Mini | 26.0.1 | 2509-178 | 2025 | | | TP-Link UB400 | `@Amy`[^7]
 
 ## Sources
 
@@ -31,3 +32,4 @@ M3 ? | 14.3.1 | 5.0-21116  | 2024 | Yes[^4] | | `sejmann74`
 [^4]: https://bugs.dolphin-emu.org/issues/12662
 [^5]: https://github.com/dolphin-emu/WiimotePair/issues/14
 [^6]: https://github.com/dolphin-emu/WiimotePair/issues/1
+[^7]: Discord: 1203712057640357898
