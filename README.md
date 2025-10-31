@@ -26,7 +26,7 @@ Model | OS | Dolphin | Remote | WiimotePair |  Dolphinbar | Other adapter | User
 M3 Air | 14.7 | 2509 | | No |  | | Me | 2025 
 M3 Pro | 15   |      | |    | Yes | | `@Melumi`[^2] | 2025 
 M3 ? | 14.3.1 | 5.0-21116  | | Yes[^4] | | | `sejmann74` | 2024 
-M4 Mini | 26.0.1 | 2509-178 | RVL-036 | | | Yes, TP-Link UB400 | `@Amy`[^7] | 2025
+M4 Mini | 26.0.1 | 2509-178 | RVL-036 | Yes (built from source) | | Yes, TP-Link UB400 | `@Amy`[^7] | 2025
 
 ## Tips
 
