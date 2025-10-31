@@ -13,18 +13,17 @@
 
 ## Papercuts
 
-- Disable the Wii remote speakers. According to `@Melumi`[^2], they "make crackling sounds which is distracting". Furthermore, according to `@Hibyehello`[^3], getting them to work at all requires "bluetooth passthrough", unavailable on later versions of macOS.
+- You may need to disable the Wii remote speakers in Dolphin settings. According to `@Melumi`[^2], two out of three of his Wiimotes (using the Dolphinbar) make [loud crackling and static sounds](https://discord.com/channels/521709831132807179/677844837843861516/1427409110609039422) which are distracting. Furthermore, according to `@Hibyehello`[^3], getting them to work at all requires "bluetooth passthrough".
 
 ## Support
 
 A "No" in a column means that the user has been unsuccessful at using that method.
 A "Yes" in any column means that the user has been successful at using that method.
-In particular, if there 
 
 Model | OS | Dolphin | Remote | WiimotePair |  Dolphinbar | Other adapter | User | Date updated
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 M3 Air | 14.7 | 2509 | | No |  | | Me | 2025 
-M3 Pro | 15   |      | |    | Yes | | `@Melumi`[^2] | 2025 
+M3 Pro | 15.6 | 2509 | RVL-036 | No | Yes | No, [UGREEN](https://www.amazon.com/dp/B0D7CLMNNQ) | `@Melumi`[^2] | 2025 
 M3 ? | 14.3.1 | 5.0-21116  | | Yes[^4] | | | `sejmann74` | 2024 
 M4 Mini | 26.0.1 | 2509-178 | RVL-036 | Yes (built from source) | | Yes, TP-Link UB400 | `@Amy`[^7] | 2025
 
